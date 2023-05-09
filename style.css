@@ -45,8 +45,7 @@ header {
     padding: 1vh;
 }
 
-iframe {
+#main-content {
+    width: 100%;
     height: auto;
-    width: 80%;
-   /* border: none; */
 }
