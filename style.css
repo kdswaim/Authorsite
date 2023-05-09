@@ -42,10 +42,11 @@ header {
 
 #top-banner, h1, p {
     color:antiquewhite;
+    padding: 1vh;
 }
 
 iframe {
     height: auto;
-    width: 100%;
+    width: 80%;
    /* border: none; */
 }
