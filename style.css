@@ -45,3 +45,14 @@ header {
     width: 100%;
     height: auto;
 }
+
+p:first-child:first-letter {
+    color: #903; 
+    font-family: Georgia;
+    initial-letter: 2;
+  }
+
+  #headshot {
+    border-radius: 50%;
+    filter:sepia();
+  }
