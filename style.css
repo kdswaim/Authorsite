@@ -25,7 +25,6 @@ header {
     height: auto;
     width: 100%;
     overflow: hidden;
-    background-color: blue;
     display:inline-flex;
     justify-content: space-around;
     background-color: rgb(24, 23, 23);
@@ -43,9 +42,6 @@ header {
 #top-banner, h1, p {
     color:antiquewhite;
     padding: 1vh;
-}
-
-#main-content {
     width: 100%;
     height: auto;
 }
